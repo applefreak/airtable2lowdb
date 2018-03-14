@@ -1,0 +1,16 @@
+{
+  "name": "airtable2lowdb",
+  "version": "1.0.0",
+  "description": "Converts Airtable base to LowDB compatible JSON files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"lol no\" && exit 1"
+  },
+  "author": "Poyu <me@poyu.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "airtable": "^0.5.2",
+    "lowdb": "^1.0.0"
+  }
+}
