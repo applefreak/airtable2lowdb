@@ -2,7 +2,7 @@
 
 Converts Airtable base to LowDB compatible JSON files
 
-## Install
+## Usage
 
 ### Clone
 
