@@ -23,7 +23,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "airtable": "^0.5.2",
-    "lowdb": "^1.0.0"
+    "airtable": "^0.5.2"
   }
 }
