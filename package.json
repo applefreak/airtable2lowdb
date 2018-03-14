@@ -2,12 +2,25 @@
   "name": "airtable2lowdb",
   "version": "1.0.0",
   "description": "Converts Airtable base to LowDB compatible JSON files",
+  "keywords": [
+    "Airtable",
+    "lowdb",
+    "JSON",
+    "static generator"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"lol no\" && exit 1"
   },
   "author": "Poyu <me@poyu.xyz>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:applefreak/airtable2lowdb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/applefreak/airtable2lowdb/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "airtable": "^0.5.2",
